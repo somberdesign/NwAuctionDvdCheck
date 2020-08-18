@@ -5,3 +5,5 @@ NwAuctionInputFilename = 'NwAuction.txt'
 
 # my movie list
 MovieListFilename = 'MovieList.txt'
+
+OutputFilename = 'NwOutput.txt'
